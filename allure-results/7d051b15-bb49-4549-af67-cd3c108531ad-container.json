@@ -1,0 +1,1 @@
+{"uuid":"7d051b15-bb49-4549-af67-cd3c108531ad","name":"FunctionalTest.CruiseTest","children":["e5e56bdd-5cb4-4b82-b399-b62b29ab046d"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1690736592240,"stop":1690736592240}],"start":1690736581437,"stop":1690736592324}

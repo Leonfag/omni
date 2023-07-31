@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Omni">
+    <test name="Prueba Técnica">
+         <classes>
+             <class name="FunctionalTest.CruiseTest"/>
+             <class name="FunctionalTest.newUser"/>
+             <class name="FunctionalTest.Delivery"/>
+             <class name="FunctionalTest.loginSuccess"/>
+             <class name="FunctionalTest.LoginFailed"/>
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->

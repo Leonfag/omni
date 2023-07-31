@@ -1,0 +1,1 @@
+{"uuid":"9f24cb94-4a05-415c-92fb-67b836a8bd27","name":"FunctionalTest.newUser","children":["9443b343-3e56-4479-afa8-75033ee6232e"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1690754138584,"stop":1690754138584}],"start":1690754114617,"stop":1690754138630}
